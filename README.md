@@ -1,4 +1,7 @@
 # books
+
+![books](https://github.com/user-attachments/assets/954fa5bc-e398-43af-aee3-cfa52418412b)
+
 - 今まで読んできた本の要約をまとめておく場所です
 - 基本的に自力の要約をしています
     - flierなどの本要約サイトを使わずわざわざ手間をかけて自力要約するのは下記2点の狙いがあります:
